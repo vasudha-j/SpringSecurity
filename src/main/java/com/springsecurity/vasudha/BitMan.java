@@ -1,5 +1,8 @@
 package com.springsecurity.vasudha;
 
+import java.math.BigInteger;
+import java.util.Scanner;
+
 public class BitMan {
 
 	public static void main(String[] args) {
